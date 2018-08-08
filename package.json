@@ -1,0 +1,54 @@
+{
+  "name": "day-from-date",
+  "version": "1.0.0",
+  "description": "get day from date, day of the year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irshadvali/day-from-date.git"
+  },
+  "keywords": [
+    "day",
+    "get",
+    "day",
+    "from",
+    "year",
+    "get",
+    "day",
+    "from",
+    "month",
+    "day",
+    "of",
+    "the",
+    "year",
+    "year",
+    "month",
+    "day",
+    "of",
+    "the",
+    "week",
+    "get",
+    "day",
+    "from",
+    "any",
+    "year",
+    "get",
+    "day",
+    "from",
+    "date",
+    "date",
+    "get",
+    "day",
+    "by",
+    "date"
+  ],
+  "author": "irshad vali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irshadvali/day-from-date/issues"
+  },
+  "homepage": "https://github.com/irshadvali/day-from-date#readme"
+}
