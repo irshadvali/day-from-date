@@ -1,3 +1,4 @@
+# npm install day-from-date
 # day-from-date
 ```import {getDay} from "day-from-date"```
 # usage
